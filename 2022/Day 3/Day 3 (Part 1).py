@@ -26,3 +26,5 @@ for line in data:
         list2.append(x)
     priority_sum += common_data(list1, list2)
     print(priority_sum)
+    
+    # ty emily for helping me <3 github.com/overestimate
